@@ -1,4 +1,4 @@
-# AnáliseTextual
+# AnáliseTextual-txt
 
 Este repositório contém um conjunto de funções em Python para análise de texto. Essas funções podem ser úteis para extrair insights e realizar diversas operações em documentos de texto.
 
