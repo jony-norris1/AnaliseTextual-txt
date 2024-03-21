@@ -39,4 +39,4 @@ https://colab.research.google.com/drive/1A5OifRYQPyJKOZRF5\_BlLuT-9Yg7t2kn?usp=s
 - [Página inicial da biblioteca Word Cloud](https://github.com/amueller/word_cloud)
 - [Documentação do Matplotlib](https://matplotlib.org/stable/contents.html)
 
-Este README fornece uma visão geral das funcionalidades do repositório e instruções básicas de uso. Você pode expandi-lo adicionando informações sobre a instalação das dependências, exemplos de uso e qualquer outra informação relevante.
+Este README fornece uma visão geral das funcionalidades do repositório e instruções básicas de uso. 
