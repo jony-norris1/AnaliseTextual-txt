@@ -29,7 +29,7 @@ Para testar o programa, utilizarei livros em formato .txt disponíveis no Projet
 
 Você também pode acessar um ambiente compartilhado no Google Colab:
 
-https://colab.research.google.com/drive/1A5OifRYQPyJKOZRF5\_BlLuT-9Yg7t2kn?usp=sharing
+(https://colab.research.google.com/drive/1A5OifRYQPyJKOZRF5_BlLuT-9Yg7t2kn?usp=sharing)
 
 ## Referências
 
